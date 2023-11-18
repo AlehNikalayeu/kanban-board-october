@@ -1,5 +1,5 @@
 const initialState = {
-    appName: 'Kanban Board',
+    appName: 'Kanban Board October',
     boardStatuses: [
         {id: "1", status: "Todo"},
         {id: "2", status: "In progress"},
